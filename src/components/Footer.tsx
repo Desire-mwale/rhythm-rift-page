@@ -12,11 +12,11 @@ const Footer = () => {
                 <Music className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                SoundWave
+                ICE JEAN MUSIC STORE
               </span>
             </div>
             <p className="text-muted-foreground">
-              Your ultimate music streaming experience. Discover, play, and share the music you love.
+              Your ultimate music store experience. Discover, buy, and enjoy the best music collections.
             </p>
           </div>
 
@@ -56,7 +56,7 @@ const Footer = () => {
 
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row items-center justify-between">
           <p className="text-muted-foreground text-sm">
-            © 2024 SoundWave. All rights reserved.
+            © 2024 ICE JEAN MUSIC STORE. All rights reserved.
           </p>
           <div className="flex items-center space-x-1 text-sm text-muted-foreground mt-4 md:mt-0">
             <span>Made with</span>
